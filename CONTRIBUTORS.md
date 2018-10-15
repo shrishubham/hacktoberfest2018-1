@@ -1,4 +1,4 @@
-
+﻿
 
 Name: [Kanishk Gupta](https://github.com/gkanishk)<br/>
 Place: INDIA<br/>
@@ -31,6 +31,13 @@ Place: India<br/>
 About: Student and Software engineer! <br/>
 Programming Language: c, c++, java, HTML, CSS, Python3 , PHP <br/>
 Email: masterjj1251@gmail.com<br/>
+
+
+Name: [Shubham Shrivastava](https://github.com/shrishubham)<br/>
+Place: India<br/>
+About: Student and Software engineer! <br/>
+Programming Language: c, c++, HTML, PHP<br/>
+Email: srivastava.shubham.ss5@gmail.com<br/>
 
 
 Name: [Jogi Miglani](https://github.com/jmig5776)<br/>
